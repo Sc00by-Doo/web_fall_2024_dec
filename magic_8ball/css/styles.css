@@ -1,0 +1,22 @@
+body {
+    background-color:honeydew;
+    text-align: center;
+}
+#fortune{
+    background-color:darkslategrey;
+    color: lightcyan;
+    width: 200px;
+    height:140px;
+    border-radius:100px;
+    margin: 30px;
+    padding-top: 60px;
+    vertical-align: center;
+    text-align: center;
+    font-size: 20px;
+}
+
+#eightball {
+    margin-left: 40%;
+    width: 50%;
+    padding: 10px;
+}

@@ -1,0 +1,55 @@
+.nav {
+    list-style: none;
+    text-align: center;
+}
+
+.nav li {
+    display:inline;
+    margin-right: 20px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid rgb(250,128,14,255);
+    padding: 50px;
+    background-color:palegoldenrod;
+}
+
+.coraline {
+    border: 1px solid black;
+    padding:10px;
+    display:inline-block;
+    margin-left: 3%;
+}
+
+.minions {
+    text-align: right;
+    border: 1px solid black;
+    padding:10px;
+    display:inline-block;
+    margin-left:30%;
+}
+
+.pony {
+    border: 1px solid black;
+    padding:10px;
+    display:inline-block;
+    margin-left: 5%;
+}
+
+.surfers {
+    text-align: right;
+    margin-right: 25%;
+    border: 1px solid black;
+    padding:10px;
+    display:inline-block;
+    margin-left:30%;
+}
+
+
+.vertical-text {
+    text-align: center;
+    font-size: larger;
+    color: darkolivegreen;
+}
